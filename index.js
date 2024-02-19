@@ -1,4 +1,3 @@
-import express from "express"
 import axios from "axios"
 import { Telegraf } from "telegraf"
 import { message } from "telegraf/filters"
